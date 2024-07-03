@@ -1,3 +1,6 @@
+# Very Important
+ This link {quiz-app.eroslabs.live/} will take time to load because of multiple component and work for both user end and student end.
+ 
 # Quiz_WebApp
 
 This is the Quiz App API, which provides endpoints for managing classes, quizzes, responses, and results.
