@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Quiz App API
 
 This is the Quiz App API, which provides endpoints for managing classes, quizzes, responses, and results. The APP is hosted on [https://quiz-app.eroslabs.live/](https://quiz-app.eroslabs.live/), and its Swagger documentation is available at [https://quiz-app.eroslabs.live/api-docs/](https://quiz-app.eroslabs.live/api-docs/).
@@ -53,3 +54,7 @@ The codebase could use some organization and cleanup. It's a bit of spaghetti co
 
 ## License
 [Apache-2.0](https://choosealicense.com/licenses/apache-2.0/)
+=======
+# Quiz-WebApp
+A Quiz WebApp with Teacher and Student Accesss
+>>>>>>> 2e3f634c9e3d650f0db4c7ea108ffdf94be795d8
